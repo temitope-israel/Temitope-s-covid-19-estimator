@@ -1,7 +1,7 @@
 const covid19ImpactEstimator = (data) => {
 
 
-return {
+    return {
 // INPUT DATA
 data: {
     reportedCases: 35.235533,
