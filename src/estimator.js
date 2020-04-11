@@ -24,6 +24,8 @@ severeImpact: {
 },
 };
 
+
+
 //Currently INfected for the Impact Object/Output
 currentlyInfected = data.reportedCases * 10;
 impact.currentlyInfected = currentlyInfected;
